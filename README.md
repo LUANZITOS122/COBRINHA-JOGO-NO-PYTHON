@@ -7,16 +7,16 @@ Uma implementação clássica e interativa do **Jogo da Cobrinha** desenvolvida 
 ## 📸 Demonstração e Visual do Jogo
 
 - **Janela:** 500x500 pixels.
-- **Estilo:** Visual minimalista em grelha com atualização em tempo real.
-- **Pontuação:** Exibida dinamicamente no título da janela.
+- **Estilo:** Visual minimalista com atualização em tempo real.
+- **Pontuação:** Exibida no título da janela.
 
 ---
 
 ## 🚀 Funcionalidades
 
-- **Movimentação Fluida:** Controlo preciso da cobra utilizando as setas do teclado.
+- **Movimentação Fluida:** Controlo da cobra utilizando as setas do teclado.
 - **Bloqueio de Inversão de Sentido:** Impede que a cobra colida instantaneamente consigo mesma ao tentar ir na direção oposta.
-- **Geração Inteligente de Frutas:** As frutinhas surgem de forma aleatória sem nunca nascerem em cima do corpo da cobra.
+- **Geração de Frutas:** As frutinhas surgem de forma aleatória sem nunca nascerem em cima do corpo da cobra.
 - **Deteção de Colisão:**
   - Colisão com as bordas da tela (paredes).
   - Colisão da cabeça da cobra com o próprio corpo (auto-colisão).
