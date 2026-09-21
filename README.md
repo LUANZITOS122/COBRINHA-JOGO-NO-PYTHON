@@ -1,4 +1,5 @@
 # COBRINHA-JOGO-NO-PYTHON
+Apresentado por Luan David e Ederson 
 Uma implementação clássica e interativa do **Jogo da Cobrinha** desenvolvida em **Python 3** utilizando a biblioteca **Pygame**. O projeto foi estruturado utilizando conceitos de **Programação Orientada a Objetos (POO)** para garantir um código limpo, modular e de fácil manutenção.
 
 ---
