@@ -1,7 +1,7 @@
 # COBRINHA-JOGO-NO-PYTHON
 **Apresentado por Luan David e Ederson.**
 
-**objetivo pegar as frutas o máximo que conseguir.**
+**objetivo pegar as frutas o máximo que conseguir, para sua cobra ficar **grandona**.**
 
 Implementação do **Jogo da Cobrinha** desenvolvida em **Python 3**
 utilizando a biblioteca **Pygame**. O projeto foi estruturado utilizando conceitos de **Programação Orientada a Objetos (POO)** 
