@@ -1,5 +1,6 @@
 # COBRINHA-JOGO-NO-PYTHON
-#**Apresentado por Luan David e Ederson. com o objetivo pegar as frutas até perde.**
+#**Apresentado por Luan David e Ederson. **
+ **objetivo pegar as frutas o máximo que conseguir.**
 
 Implementação clássica e interativa do **Jogo da Cobrinha** desenvolvida em **Python 3**
 utilizando a biblioteca **Pygame**. O projeto foi estruturado utilizando conceitos de **Programação Orientada a Objetos (POO)** 
